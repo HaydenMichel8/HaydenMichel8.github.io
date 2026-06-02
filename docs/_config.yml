@@ -28,7 +28,7 @@ github_username:  HaydenMichel8
 linkedin_username: hayden-michel-596948290
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
