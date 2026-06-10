@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Resume
+title: Line Image Processing
 permalink: projects/line-finder/
 ---
