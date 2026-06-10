@@ -6,4 +6,7 @@ layout: home
 ---
 
 [View Resume](/resume/)
+
 [View Projects](/projects/)
+
+[More about me](/about/)
