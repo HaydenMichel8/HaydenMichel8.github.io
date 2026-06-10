@@ -6,3 +6,4 @@ layout: home
 ---
 
 [View Resume](/resume/)
+[View Projects](/projects/)
