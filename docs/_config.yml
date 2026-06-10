@@ -29,10 +29,7 @@ linkedin_username: hayden-michel-596948290
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-plugins:
-  - jekyll-feed
-atom_feed:
-hide: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
