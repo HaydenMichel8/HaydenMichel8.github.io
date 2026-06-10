@@ -1,2 +1,7 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
 ## Line Finder 
-[Read More](/projects/national-parks-scrabble/)
+[Read More](/projects/line-finder/)
