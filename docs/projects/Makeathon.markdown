@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Makeathon
-permalink: /Makeathon
+permalink: /Makeathon/
 ---
 [Return to Projects](/projects/)
 
