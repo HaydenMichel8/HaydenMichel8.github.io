@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Hayden Michel
+permalink: /index/
 ---
 
 ### Electrical & Computer Engineering | The Ohio State University
