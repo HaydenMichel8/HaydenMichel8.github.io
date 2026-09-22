@@ -3,6 +3,8 @@ layout: default
 title: VR Stick Study
 permalink: /VR-stick-study/
 ---
+[Return to Projects](/projects/)
+
 In vision therapy, a [Brock String](https://en.wikipedia.org/wiki/Brock_string) is a well proved method for helping people fixate on objects close to their face. The aim of this VR project was to develop games with a similar purpose to allow people to improve their vision without needing a trained optometrist present. The environment was made in Unity using C# and has the subject wear a VR headset with built in eye trackers. This eye data is used in real time to judge whether they are looking at a sphere or not and to move it towards them or not, among other things.
 
 The VR project has a full environment that can be teleported around, 4 different games with customizable settings, and lots of adjustable parameters to allow experimenters to adjust on the fly. All of the data from the eye trackers was saved over the subjects many visits over a few weeks to try and find improvement from the VR games.
