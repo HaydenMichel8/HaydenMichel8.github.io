@@ -19,4 +19,4 @@ Welcome! I am an ECE student specializing in applied electromagnetics, RF engine
 
 
 ---
-> **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | haydenmichel8@gmail.com
+> **Connect:** [LinkedIn](https://linkedin.com/in/hayden-michel-596948290) | [GitHub](https://github.com/HaydenMichel8) | haydenmichel8@gmail.com
