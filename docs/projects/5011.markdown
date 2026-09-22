@@ -3,4 +3,11 @@ layout: default
 title: 5011
 permalink: /5011/
 ---
-5011
+[Return to Projects](/projects/)
+
+This presentation and simulation was developed for ECE 5011, Antennas. We were given a basic scenario and had to choose the best antenna type for it and design and simulate it. For the task of making a BLE antenna for monitoring the heart with Magnetocardiography we used a PIFA antenna, as outlined below.
+<iframe
+  src="/assets/ECE 5011 Project.pptx"
+  width="100%"
+  height="800px">
+</iframe>
