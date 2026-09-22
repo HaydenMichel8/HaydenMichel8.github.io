@@ -1,12 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Hayden Michel - Portfolio
 ---
 
-[View Resume](/resume/)
+# Hayden Michel
+**Electrical & Computer Engineering | The Ohio State University**
 
-[View Projects](/projects/)
+Welcome! I am an ECE student specializing in applied electromagnetics, RF engineering, and software development. 
 
-[More about me](/about/)
+---
+
+### Navigation
+
+* **[📄 View My Resume](/resume/)**  
+  *Academic background and past positions.*
+
+* **[🛠️ Explore Projects](/projects/)**  
+  *Projects from school and internships, including wearable magnetocardiography, VR eye-tracking, and C++ algorithms.*
+
+
+---
+> **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | haydenmichel8@gmail.com
