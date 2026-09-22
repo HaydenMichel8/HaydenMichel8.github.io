@@ -3,4 +3,6 @@ layout: default
 title: Blind Walking
 permalink: /Blind Walking/
 ---
-Blind Walking
+[Return to Projects](/projects/)
+
+Work in Progress.
