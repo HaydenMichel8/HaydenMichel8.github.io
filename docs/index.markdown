@@ -3,7 +3,7 @@ layout: home
 title: Hayden Michel
 ---
 
-**Electrical & Computer Engineering | The Ohio State University**
+### Electrical & Computer Engineering | The Ohio State University
 
 Welcome! I am an ECE student specializing in applied electromagnetics, RF engineering, and software development. 
 
