@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VR Stick Study
-permalink: /VR-stick-study/
+permalink: /VR-Stick-Study/
 ---
 [Return to Projects](/projects/)
 
