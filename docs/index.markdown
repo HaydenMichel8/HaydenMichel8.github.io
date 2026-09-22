@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Hayden Michel - Portfolio
 ---
 
 # Hayden Michel
