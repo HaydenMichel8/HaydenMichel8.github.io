@@ -16,7 +16,7 @@ Welcome! I am an ECE student specializing in applied electromagnetics, RF engine
   *Academic background and past positions.*
 
 * **[🛠️ Explore Projects](/projects/)**  
-  *Projects from school and internships, including wearable magnetocardiography, VR eye-tracking, and C++ algorithms.*
+  *Projects from school and internships across hardware and software.*
 
 
 ---
